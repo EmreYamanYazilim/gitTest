@@ -7,6 +7,7 @@
 </head>
 <body>
 	<p>git kursu 4. commit deneme </p>
+	<p>direk git commit yazınca olacaklar</p>
 
 </body>
 </html>
