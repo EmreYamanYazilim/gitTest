@@ -6,6 +6,7 @@
 	<title>git kursu </title>
 </head>
 <body>
+	<p>git kursu 4. commit deneme </p>
 
 </body>
 </html>
