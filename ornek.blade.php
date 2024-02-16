@@ -7,7 +7,20 @@
 </head>
 <body>
 	<p>git kursu 4. commit deneme </p>
-	<p>direk git commit yazınca olacaklar asdasdasd</p>
+	<p>direk git commit yazınca olacaklar asdasdasd
+
+		@if('deneme')
+			deneme yapılması şart
+
+		@endif
+
+		{{$deneme = "deneme" }}
+		@if(isset($deneme))
+
+		@endif
+
+		
+    </p>
 
 </body>
 </html>

@@ -1,1 +1,1 @@
-commit etmeden 
+laravel projeleri commit etmek için
