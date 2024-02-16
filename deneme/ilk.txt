@@ -1,1 +1,1 @@
-laravel deneme 
+gizli dosya  yollama laravel

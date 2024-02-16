@@ -1,1 +1,1 @@
-Git ilk değişiklik 2. commitasdasdasdasd
+commit etmeden 
